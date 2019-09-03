@@ -1,2 +1,2 @@
-# Student_management_System
-A Student management System using java
+# Simple Student_management_System
+A Simple Student management System using java
